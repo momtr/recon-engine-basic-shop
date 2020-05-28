@@ -3,7 +3,7 @@
  */
 
 /** API key */
-const token = '37a92236-4684-4d83-a482-b6c86f52c813';
+const token = 'YOUR_API_KEY';
 let recon;
 
 let selected = 0;
